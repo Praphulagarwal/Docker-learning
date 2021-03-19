@@ -83,7 +83,7 @@ app.delete('/goals/:id', async (req, res) => {
   }
 });
 
-console.log('testing this for feature docker')
+console.log('testing this for feature docker djchjdscbds')
 
 mongoose.connect(
   'mongodb://localhost:27017/course-goals',
