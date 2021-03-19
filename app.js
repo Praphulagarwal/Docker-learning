@@ -83,7 +83,7 @@ app.delete('/goals/:id', async (req, res) => {
   }
 });
 
-console.log('testing')
+console.log('testing this')
 
 mongoose.connect(
   'mongodb://localhost:27017/course-goals',
